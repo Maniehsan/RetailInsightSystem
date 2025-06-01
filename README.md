@@ -11,10 +11,11 @@ Retail Insight Analytical System is a Python-based data analytics project design
 - Visualization of key insights
 
 ## Technologies Used
-- Python
-- pandas, numpy, matplotlib, seaborn (for data handling and visualization)
-- scikit-learn (for machine learning algorithms)
-- mlxtend (for association rule mining)
+- Python (main programming language)
+- Requests, BeautifulSoup (web scraping)
+- Pandas, NumPy (data manipulation and numerical operations)
+- Scikit-learn (Decision Tree Classifier, K-Means clustering)
+- Mlxtend (Apriori algorithm for association rule mining)
 
 ## How to Run
 1. Clone the repository:
